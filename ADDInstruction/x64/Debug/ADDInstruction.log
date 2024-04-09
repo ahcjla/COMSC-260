@@ -1,0 +1,9 @@
+﻿  Assembling ..\.asm file\add.asm...
+..\.asm file\add.asm(19): error A2008: syntax error : .
+..\.asm file\add.asm(21): error A2008: syntax error : .
+..\.asm file\add.asm(28): error A2008: syntax error : .
+..\.asm file\add.asm(32): error A2008: syntax error : ,
+..\.asm file\add.asm(103): error A2008: syntax error : INVOKE
+..\.asm file\add.asm(106): error A2008: syntax error : main
+..\.asm file\add.asm(106): error A2088: END directive required at end of file
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml64.exe /c /nologo /Zi /Fo"x64\Debug\add.obj" /W3 /errorReport:prompt  /Ta"..\.asm file\add.asm"" exited with code 1.

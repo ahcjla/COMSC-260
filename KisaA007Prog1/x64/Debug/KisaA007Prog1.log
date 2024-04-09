@@ -1,0 +1,9 @@
+﻿  Assembling ..\.asm file\KisaA007Prog1.asm...
+..\.asm file\KisaA007Prog1.asm(28): error A2008: syntax error : .
+..\.asm file\KisaA007Prog1.asm(30): error A2008: syntax error : .
+..\.asm file\KisaA007Prog1.asm(37): error A2008: syntax error : .
+..\.asm file\KisaA007Prog1.asm(41): error A2008: syntax error : ,
+..\.asm file\KisaA007Prog1.asm(86): error A2008: syntax error : INVOKE
+..\.asm file\KisaA007Prog1.asm(89): error A2008: syntax error : main
+..\.asm file\KisaA007Prog1.asm(89): error A2088: END directive required at end of file
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml64.exe /c /nologo /Zi /Fo"x64\Debug\KisaA007Prog1.obj" /W3 /errorReport:prompt  /Ta"..\.asm file\KisaA007Prog1.asm"" exited with code 1.
